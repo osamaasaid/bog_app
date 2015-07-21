@@ -26,3 +26,4 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+[bog app](https://github.com/osamaasaid/bog_app)
